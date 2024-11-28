@@ -2,7 +2,7 @@
 <h3 align="center">🌿 Biologist | University of Antioquia. 🧬Master's student in biotechnology | National University of Colombia. 🐟ichthyologist with emphasis on catfish systematics and biogeography. 👨🏽‍🔬analysis of molecular and morphological data</h3>
 
                    /\
-	              /. |	
+	          /. |	
    \,------------´   `----:_.-'/
   -( o )                   _  (
    /`-. .,----------------; `-.\
@@ -16,14 +16,14 @@
 - 📫 How to reach me **victormanuelmedinarios@gmail.com**
 
                    /\
-	          /. |
+	          /. | 
    \,------------´   `----:_.-'/
   -( o )                   _  (
    /`-. .,----------------; `-.\
        \´
 	   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/victor-manuel-medina-rios-2966152b3/</h3>
 <p align="left">
 </p>
 
