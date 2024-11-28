@@ -16,7 +16,7 @@
 - 📫 How to reach me **victormanuelmedinarios@gmail.com**
 
                    /\
-	              /. |	
+	          /. |
    \,------------´   `----:_.-'/
   -( o )                   _  (
    /`-. .,----------------; `-.\
